@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>你好！世界！灰鸿的空间今天来了!</title>
+    <title>你好！世界！沈亚泰的博客今天来了!</title>
     <url>/posts/1/</url>
-    <content><![CDATA[<p>你好世界，2020&#x2F;7&#x2F;23，我的空间问世了</p>
+    <content><![CDATA[<p>你好世界，2020&#x2F;7&#x2F;23，我的博客问世了</p>
 <p>我会在这里发布一些杂乱的文章</p>
 <p>希望大家能够喜欢</p>
 <p>本人水平有限，写不出高技术的文章。</p>
-<p>灰鸿的空间：<a href="https://space.greyh.cn/">https://space.greyh.cn</a></p>
-<p>如果大家想了解更多关于我的信息，</p>
-<p>可以访问：<a href="https://greyh.cn/">https://greyh.cn</a></p>
-<p>大家也可以加入我的QQ群</p>
-<p>群号为：684388580</p>
-<p><img src="https://s2.loli.net/2022/06/10/Uw62e3hqODdb7o8.png" alt="灰鸿YHY"></p>
+<p><img src="https://shumyatai.cn/img/favicon.png" alt="沈亚泰"></p>
 ]]></content>
       <categories>
         <category>杂谈文章</category>
@@ -136,7 +131,7 @@
     <title>域名更换通知</title>
     <url>/posts/14/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/06/10/h2J8Rv4Npg9saXG.png" alt="Internet"></p>
-<h2 id="重要通知"><a href="#重要通知" class="headerlink" title="重要通知:"></a>重要通知:</h2><p>网站的首页域名已经更换为 <a href="https://greyh.cn/">https://greyh.cn</a> ，空间域名已更改为 <a href="https://space.greyh.cn/">https://space.greyh.cn</a> 。</p>
+<h2 id="重要通知"><a href="#重要通知" class="headerlink" title="重要通知:"></a>重要通知:</h2><p>网站的首页域名已经更换为 <a href="https://shumyatai.cn/">https://shumyatai.cn</a> 。</p>
 <p>旧站即将关闭，如果您不较快的保存好新站链接，可能会导致您再也无法找到我们。</p>
 <p>请大家保存好新站的链接，<code>Ctrl + D</code> 保存网页不迷路。</p>
 <p>旧站会在今年七月彻底关闭进入渠道，望周知！</p>
@@ -206,35 +201,6 @@
       </categories>
       <tags>
         <tag>软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>生物笔记——基因的本质</title>
-    <url>/posts/17/</url>
-    <content><![CDATA[<h3 id="DNA是主要的遗传物质"><a href="#DNA是主要的遗传物质" class="headerlink" title="DNA是主要的遗传物质"></a>DNA是主要的遗传物质</h3><blockquote>
-<p>20世纪20年代，当时大多数科学家认为，蛋白质是生物体的遗传物质</p>
-<p>20世纪30年代，人们意识到DNA的重要性，但是认为蛋白质是遗传物质的观点仍占主导地位</p>
-<p>20世纪中叶，科学家发现染色体主要是由 <code>蛋白质</code> 和 <code>DNA</code> 组成的</p>
-</blockquote>
-<p><a href="https://www.baidu.com/s?ie=UTF-8&wd=%E8%82%BA%E7%82%8E%E9%93%BE%E7%90%83%E8%8F%8C%E7%9A%84%E8%BD%AC%E5%8C%96%E5%AE%9E%E9%AA%8C">肺炎链球菌的转化实验</a>（英国微生物学家格里菲斯的体内转化实验与美国生物学家艾弗里的体外转化实验） 与 <a href="https://www.baidu.com/s?ie=UTF-8&wd=%E5%99%AC%E8%8F%8C%E4%BD%93%E4%BE%B5%E6%9F%93%E7%BB%86%E8%8F%8C%E7%9A%84%E5%AE%9E%E9%AA%8C">噬菌体侵染细菌的实验</a> 表明DNA是遗传物质。</p>
-<p>后来的研究证明，遗传物质除DNA外，还有RNA。在RNA病毒中，RNA是遗传物质。因为绝大多数生物的遗传物质是DNA，所以说DNA是主要的遗传物质。</p>
-<h3 id="DNA的结构"><a href="#DNA的结构" class="headerlink" title="DNA的结构"></a>DNA的结构</h3><p>真核生物</p>
-<p>|—- 链状DNA + 组蛋白    染色体&#x2F;染色质<br>|—- 环状DNA    线粒体，叶绿体     共生学说—&gt;    好氧菌，蓝藻</p>
-<p>原核生物</p>
-<p>|—- 环状DNA    拟核，质粒</p>
-<p>DNA双螺旋结构，主要特点：</p>
-<p>①DNA是由两条单链组成的，这两条链按反向平行方式盘旋成双链结构</p>
-<p>②DNA中的脱氧核糖和核酸交替连接，排列在外侧，构成基本骨架，碱基排列在内侧</p>
-<p>③两条链上的碱基通过氢键连接成碱基对A-T,C-G配对，称为碱基互补配对原则</p>
-<h3 id="DNA的复制"><a href="#DNA的复制" class="headerlink" title="DNA的复制"></a>DNA的复制</h3><p>半保留复制</p>
-]]></content>
-      <categories>
-        <category>教程文章</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>笔记</tag>
-        <tag>生物</tag>
       </tags>
   </entry>
   <entry>
@@ -414,6 +380,33 @@
       </tags>
   </entry>
   <entry>
+    <title>使用Typora与PicGO实现图片的Gitee服务器上传</title>
+    <url>/posts/8/</url>
+    <content><![CDATA[<p>很多人都喜欢用Markdown文档来写文章，使用Markdown语法那么最好用的编辑器就是Typora了。但是，当大家使用Typora的时候，插入图片往往插入的是本地图片，不是网络图片。这将会导致大家将文章发布到多个平台时会遇到图片不显示的问题，这就需要网络图床了。然而，很多免费的图床都不是很好用，花钱买服务器又不值得，这里我推荐一下我的方案:Typora + PicGo + Gitee。</p>
+<p>使用Typora与PicGO实现图片的Gitee服务器上传可以让写文章的效率变得更快。当你写文章需要插入图片的时候只需要将图片复制粘贴到typora，picgo就会自动将你的图片上传到Gitee服务器并自动部署网站链接，typora这边也将会自动把你粘贴的图片自动替换成gitee的网络链接。在这个过程中，速度是非常快的。那么下面就是教程:</p>
+<h3 id="1-Gitee"><a href="#1-Gitee" class="headerlink" title="1.Gitee"></a>1.Gitee</h3><p>①进入gitee，创建一个公有仓库，并部署gitee pages服务</p>
+<p><img src="https://s2.loli.net/2022/06/10/csIJh9T5xd4arlO.png" alt="image-20210124194908893"></p>
+<p>②进入设置，私人令牌，创建一个新的私人令牌，并获取<code>token</code>，一定要妥善保管好<code>token</code>，后面要用到</p>
+<p><img src="https://s2.loli.net/2022/06/10/83kwhgUKWHLf5FD.png" alt="image-20210124195105431"></p>
+<h3 id="2-PicGo"><a href="#2-PicGo" class="headerlink" title="2.PicGo"></a>2.PicGo</h3><p>①下载并安装PicGo</p>
+<p><img src="https://s2.loli.net/2022/06/10/TVsQJrSOoX5xD3E.png" alt="image-20210124195326087"></p>
+<p>②下载gitee插件</p>
+<p><img src="https://s2.loli.net/2022/06/10/D3HxPR4omAqweSY.png" alt="image-20210124195435404"></p>
+<p>③配置Gitee，rope为 <code>用户名/仓库名</code>，设置为默认图床</p>
+<p><img src="https://s2.loli.net/2022/06/10/NtYj4mxocI2vOqw.png" alt="image-20210124195541360"></p>
+<h3 id="3-Typora"><a href="#3-Typora" class="headerlink" title="3.Typora"></a>3.Typora</h3><p>①依次点击文件，偏好设置，图像，按照我下面的图配置:</p>
+<p><img src="https://s2.loli.net/2022/06/10/COgE9AeQthqTWRl.png" alt="image-20210124195827015"></p>
+<h3 id="4-结束"><a href="#4-结束" class="headerlink" title="4.结束"></a>4.结束</h3><p>到这里就配置结束了，当你把图片粘贴到Typora时，picgo就会自动将图片上传到服务器，typora就是自动将本地路径替换成网络路径了。</p>
+]]></content>
+      <categories>
+        <category>软件分享</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>软件</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hexo博客的高级SEO优化</title>
     <url>/posts/7/</url>
     <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>不少人正在用基于hexo的方法来搭建博客，但是自己搭建的博客搜索引擎不常常光顾，这时候就需要SEO优化了。以下的方法纯属本人经验，希望对你有所帮助，如果你还有更好的方法，可以留言反馈。</p>
@@ -529,33 +522,6 @@
         <tag>网站开发</tag>
         <tag>hexo</tag>
         <tag>SEO</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>使用Typora与PicGO实现图片的Gitee服务器上传</title>
-    <url>/posts/8/</url>
-    <content><![CDATA[<p>很多人都喜欢用Markdown文档来写文章，使用Markdown语法那么最好用的编辑器就是Typora了。但是，当大家使用Typora的时候，插入图片往往插入的是本地图片，不是网络图片。这将会导致大家将文章发布到多个平台时会遇到图片不显示的问题，这就需要网络图床了。然而，很多免费的图床都不是很好用，花钱买服务器又不值得，这里我推荐一下我的方案:Typora + PicGo + Gitee。</p>
-<p>使用Typora与PicGO实现图片的Gitee服务器上传可以让写文章的效率变得更快。当你写文章需要插入图片的时候只需要将图片复制粘贴到typora，picgo就会自动将你的图片上传到Gitee服务器并自动部署网站链接，typora这边也将会自动把你粘贴的图片自动替换成gitee的网络链接。在这个过程中，速度是非常快的。那么下面就是教程:</p>
-<h3 id="1-Gitee"><a href="#1-Gitee" class="headerlink" title="1.Gitee"></a>1.Gitee</h3><p>①进入gitee，创建一个公有仓库，并部署gitee pages服务</p>
-<p><img src="https://s2.loli.net/2022/06/10/csIJh9T5xd4arlO.png" alt="image-20210124194908893"></p>
-<p>②进入设置，私人令牌，创建一个新的私人令牌，并获取<code>token</code>，一定要妥善保管好<code>token</code>，后面要用到</p>
-<p><img src="https://s2.loli.net/2022/06/10/83kwhgUKWHLf5FD.png" alt="image-20210124195105431"></p>
-<h3 id="2-PicGo"><a href="#2-PicGo" class="headerlink" title="2.PicGo"></a>2.PicGo</h3><p>①下载并安装PicGo</p>
-<p><img src="https://s2.loli.net/2022/06/10/TVsQJrSOoX5xD3E.png" alt="image-20210124195326087"></p>
-<p>②下载gitee插件</p>
-<p><img src="https://s2.loli.net/2022/06/10/D3HxPR4omAqweSY.png" alt="image-20210124195435404"></p>
-<p>③配置Gitee，rope为 <code>用户名/仓库名</code>，设置为默认图床</p>
-<p><img src="https://s2.loli.net/2022/06/10/NtYj4mxocI2vOqw.png" alt="image-20210124195541360"></p>
-<h3 id="3-Typora"><a href="#3-Typora" class="headerlink" title="3.Typora"></a>3.Typora</h3><p>①依次点击文件，偏好设置，图像，按照我下面的图配置:</p>
-<p><img src="https://s2.loli.net/2022/06/10/COgE9AeQthqTWRl.png" alt="image-20210124195827015"></p>
-<h3 id="4-结束"><a href="#4-结束" class="headerlink" title="4.结束"></a>4.结束</h3><p>到这里就配置结束了，当你把图片粘贴到Typora时，picgo就会自动将图片上传到服务器，typora就是自动将本地路径替换成网络路径了。</p>
-]]></content>
-      <categories>
-        <category>软件分享</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>软件</tag>
       </tags>
   </entry>
   <entry>
