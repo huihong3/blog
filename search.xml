@@ -271,6 +271,33 @@
       </tags>
   </entry>
   <entry>
+    <title>软件卸载再无残留-电脑软件分享-Geek Uninstaller</title>
+    <url>/posts/3/</url>
+    <content><![CDATA[<p>相信很多电脑小白都为电脑卸载软件而困扰,今天我就给大家来推荐一块极速绿色卸载软件-Geek Uninstaller</p>
+<hr>
+<h3 id="推荐geek的原因"><a href="#推荐geek的原因" class="headerlink" title="推荐geek的原因:"></a>推荐geek的原因:</h3><blockquote>
+<p>一是他非常轻捷,不用安装,下载就是exe文件,打开就能用,可存到U盘里,走到哪里用到哪里</p>
+</blockquote>
+<blockquote>
+<p>二是他的清理功能极强,软件卸载再无残留,注册表清的干干净净</p>
+</blockquote>
+<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法:"></a>使用方法:</h3><h4 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h4><p>Geek Uninstaller分为两个版本,一是免费版,二是专业版,专业版需要花钱,我们到官网,选择免费版下载,为什么推荐免费版呢?因为免费版的功能就已经很全了,而且平常我们用不到专业版的很多功能.</p>
+<p><img src="http://huihongyhy.gitee.io/imgbed/xiezai/2.png"></p>
+<h4 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h4><p>将下载下来的Geek Uninstaller打开</p>
+<p><img src="http://huihongyhy.gitee.io/imgbed/xiezai/1.png"></p>
+<h4 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h4><p>在打开的软件中选择要删除的软件，点击卸载便可以便捷卸载软件，同时，也可以通过点击注册表条目，查看注册表</p>
+<p><img src="http://huihongyhy.gitee.io/imgbed/xiezai/3.png"></p>
+<h4 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h4><p>点击卸载,卸载完成后,他会自动检测注册表等残留垃圾</p>
+<p><img src="http://huihongyhy.gitee.io/imgbed/xiezai/4.png"></p>
+<h3 id="提示-此软件支持多种语言"><a href="#提示-此软件支持多种语言" class="headerlink" title="提示:此软件支持多种语言"></a>提示:此软件支持多种语言</h3>]]></content>
+      <categories>
+        <category>软件分享</category>
+      </categories>
+      <tags>
+        <tag>软件</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>从Linux内核理解JAVA的NIO</title>
     <url>/posts/4/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>IO 可以简单分为<code>磁盘 IO</code> 和 <code>网络 IO</code> ,<code>磁盘 IO</code> 相对于<code>网络 IO</code> 速度会快一点，本文主要介绍 <code>磁盘 IO</code> ，<code>网络 IO</code> 下周写。</p>
@@ -384,33 +411,6 @@
         <tag>教程</tag>
         <tag>Java</tag>
         <tag>Java-NIO</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>软件卸载再无残留-电脑软件分享-Geek Uninstaller</title>
-    <url>/posts/3/</url>
-    <content><![CDATA[<p>相信很多电脑小白都为电脑卸载软件而困扰,今天我就给大家来推荐一块极速绿色卸载软件-Geek Uninstaller</p>
-<hr>
-<h3 id="推荐geek的原因"><a href="#推荐geek的原因" class="headerlink" title="推荐geek的原因:"></a>推荐geek的原因:</h3><blockquote>
-<p>一是他非常轻捷,不用安装,下载就是exe文件,打开就能用,可存到U盘里,走到哪里用到哪里</p>
-</blockquote>
-<blockquote>
-<p>二是他的清理功能极强,软件卸载再无残留,注册表清的干干净净</p>
-</blockquote>
-<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法:"></a>使用方法:</h3><h4 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h4><p>Geek Uninstaller分为两个版本,一是免费版,二是专业版,专业版需要花钱,我们到官网,选择免费版下载,为什么推荐免费版呢?因为免费版的功能就已经很全了,而且平常我们用不到专业版的很多功能.</p>
-<p><img src="http://huihongyhy.gitee.io/imgbed/xiezai/2.png"></p>
-<h4 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h4><p>将下载下来的Geek Uninstaller打开</p>
-<p><img src="http://huihongyhy.gitee.io/imgbed/xiezai/1.png"></p>
-<h4 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h4><p>在打开的软件中选择要删除的软件，点击卸载便可以便捷卸载软件，同时，也可以通过点击注册表条目，查看注册表</p>
-<p><img src="http://huihongyhy.gitee.io/imgbed/xiezai/3.png"></p>
-<h4 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h4><p>点击卸载,卸载完成后,他会自动检测注册表等残留垃圾</p>
-<p><img src="http://huihongyhy.gitee.io/imgbed/xiezai/4.png"></p>
-<h3 id="提示-此软件支持多种语言"><a href="#提示-此软件支持多种语言" class="headerlink" title="提示:此软件支持多种语言"></a>提示:此软件支持多种语言</h3>]]></content>
-      <categories>
-        <category>软件分享</category>
-      </categories>
-      <tags>
-        <tag>软件</tag>
       </tags>
   </entry>
   <entry>
