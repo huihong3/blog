@@ -50,7 +50,7 @@ BY 灰鸿YHY
   
   .category-bar-items{
     white-space: nowrap;
-    overflow-x: scroll;
+    overflow-x: auto;
     display: flex;
   }
   
@@ -206,18 +206,71 @@ blockquote {
 }
 /* footer优化 */
 #footer:before {   
-    background-color: #F7F9FE;
+    background-color: #F7F9FE !important;
 }
 #footer-wrap {
-    background: #fff;
-    color: #4c4948;
-    box-shadow: 0 5px 12px -5px rgba(102, 68, 68, 0.00);
-    border: 1px solid #e3e8f7;
-    border-top-right-radius: 25px;
-    border-top-left-radius: 25px;
+    background: #fff !important;
+    color: #4c4948 !important;
+    box-shadow: 0 5px 12px -5px rgba(102, 68, 68, 0.00) !important;
+    border: 1px solid #e3e8f7 !important;
+    border-top-right-radius: 25px !important;
+    border-top-left-radius: 25px !important;
 }
 #footer-wrap a {
-    color: grey;
+    color: grey !important;
+}
+#blog-footer .footer-group {
+    min-width: 120px;
+}
+#blog-footer .footer-links {
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -o-box-orient: vertical;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+}
+#blog-footer .footer-item {
+    font-size: .8rem;
+    margin-right: auto;
+    color: #363636;
+}
+#blog-footer {
+    -webkit-box-lines: multiple;
+    -moz-box-lines: multiple;
+    -o-box-lines: multiple;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-bottom: 3rem !important;
+    width: 100%;
+    max-width: 1200px;
+    margin: 1rem auto;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -moz-box-orient: horizontal;
+    -o-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -moz-box-pack: justify;
+    -o-box-pack: justify;
+    -ms-flex-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    padding: 0 1rem;
 }
 /* 换页器优化 */
 #pagination .page-number.current {
